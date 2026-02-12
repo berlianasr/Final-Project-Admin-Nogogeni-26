@@ -1,4 +1,4 @@
-# � Nogogeni Surat
+# 💌 Nogogeni Letter Generator
 
 **Sistem Administrasi Surat Internal — Nogogeni ITS Team**
 
