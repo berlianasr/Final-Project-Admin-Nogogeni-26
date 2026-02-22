@@ -121,4 +121,4 @@ src/
 
 ---
 
-© 2026 Nogogeni ITS Team. Internal Administration System.
+© Internship Nogogeni ITS Team 2026
